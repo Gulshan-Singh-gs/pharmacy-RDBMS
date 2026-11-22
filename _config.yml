@@ -1,0 +1,6 @@
+# Jekyll / GitHub Pages site configuration (project documentation site).
+# This file is only used if the repository is published as a GitHub Pages site.
+
+title: Syed Ibrahimb Pharmacy Management System
+description: Desktop pharmacy management system built with Java Swing and MySQL.
+theme: jekyll-theme-minimal

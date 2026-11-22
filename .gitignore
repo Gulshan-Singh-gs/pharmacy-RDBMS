@@ -1,0 +1,30 @@
+# --- Compiled / build output ---
+build/
+dist/
+*.class
+
+# --- NetBeans ---
+nbproject/private/
+nbproject/build/
+nbproject/dist/
+
+# --- Eclipse ---
+.classpath
+.project
+.settings/
+bin/
+
+# --- Local tooling helpers (this repo) ---
+_sources.txt
+
+# --- Third-party JDBC driver (downloaded; see README) ---
+lib/
+
+# --- Operating system ---
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# --- Logs / temp ---
+*.log
+*.tmp
